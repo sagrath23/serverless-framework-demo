@@ -1,0 +1,16 @@
+{
+  "name": "express-with-documentdb-example",
+  "version": "1.0.0",
+  "description": "small example that shows how to use express & dynamodb with serverless framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Augusto Villegas C.",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.873.0",
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0"
+  }
+}
